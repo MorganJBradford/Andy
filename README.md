@@ -16,7 +16,7 @@ _This is an evergrowing project shared among Epicodus students: it' a webpage gr
 
 * _First clone this repository form GitHub_
 * _then navigate to the top directory_
-* _use your favorite browser to open index.html_
+* _use your favorite browser to open [index.html](index.html)_
 
 
 ## Known Bugs
