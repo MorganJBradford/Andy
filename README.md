@@ -10,7 +10,7 @@
 
 ## Description
 
-_This is an evergrowing project shared among Epicodus students: it' a webpage greeting everybody in the world. We're adding more and more languages as we pass it on._
+_This is an evergrowing project shared among Epicodus students: it's a webpage greeting everybody in the world. We're adding more and more languages as we pass it on._
 
 ## Setup/Installation Requirements
 
